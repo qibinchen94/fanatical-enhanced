@@ -1,11 +1,19 @@
 # ✨ Fanatical Enhanced ✨
 
-This script enhanced the famous marketplace **[Fanatical](https://www.fanatical.com)** adding:
+This script enhanced the famous marketplace **[Fanatical](https://www.fanatical.com)**
 
 * Add extra options in order page: 
   * Reveal keys with one click.
   * Copy keys on excel format to the clipboard.
-  * Copy keys on a list separated by space to the clipboard.
+  * Copy keys on a list separated by space and bundles separated by rows to the clipboard, for example:
+
+    Key1 Key2
+
+    Key3 Key4 Key5 Key6
+    
+    Key7 Key8 Key9
+
+  * NOTE: COPY LIST doesnt work for non-bundle purchases
 
 ### Supported sites
 
