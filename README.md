@@ -1,15 +1,15 @@
 # ✨ Fanatical Enhanced ✨
 
-This script enhanced the famous marketplace **[Fanatical](https://www.fanatical.com?ref=sergiosusa1)** adding:
+This script enhanced the famous marketplace **[Fanatical](https://www.fanatical.com)** adding:
 
 * Add extra options in order page: 
   * Reveal keys with one click.
   * Copy keys on excel format to the clipboard.
-  * Copy keys on a list separated by "," to the clipboard.
+  * Copy keys on a list separated by space to the clipboard.
 
 ### Supported sites
 
-- [Fanatical](https://www.fanatical.com?ref=sergiosusa1)
+- [Fanatical](https://www.fanatical.com)
 
 ## 📌Prerequisites📎
 
@@ -34,9 +34,3 @@ No extra configuration required.
 ## 📷Screenshots📷
 
 ![Add extra options in order page](screenshots/fanatical-enhanced.webp)
-
-### ☕Buy me a coffee☕
-
-- My Amazon [affiliate link](https://amazon.es/?tag=sergiosusa-21) or add this query string ``?tag=sergiosusa-21`` before add a product to the basket when you buy on Amazon spain.
-- My Letyshops [referal link](https://letyshops.com/es/winwin?ww=17530599) to get €5 each.
-- My Payme [link](https://paypal.me/sergiosusa?locale.x=es_ES) to send me a tip.
