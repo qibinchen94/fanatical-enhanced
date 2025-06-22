@@ -96,10 +96,13 @@ function OrderRevealer() {
     this.copyList = () => {
         let result = [];
 
-        document.querySelectorAll("div.order-item-details-container").forEach((gameElement) => {
-            let gameKey = gameElement.querySelector("input.key-input-field").value;
-
-            result.push(gameKey)
+        document.querySelectorAll("div.order-bundle-items-container").forEach((bundleElement) => {
+            let bundleKeys = [];
+            bundleElement.querySelectorAll("div.order-item-details-container").forEach((gameElement) => {
+                let gameKey = gameElement.querySelector("input.key-input-field").value;
+                bundleKeys.push(gameKey);
+            });
+            result.push(bundleKeys.join(" "));
         });
 
         this.copyToClipboard(result.join());
