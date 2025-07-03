@@ -110,7 +110,7 @@ function OrderRevealer() {
 
     this.copyToClipboard = (list) => {
         GM_setClipboard(list);
-        this.showAlert("Seriales copiados al portapapeles");
+        // this.showAlert("Seriales copiados al portapapeles");
     };
 
 }
